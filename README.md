@@ -1,2 +1,1 @@
-# a11y
-Digital Accessibility Resources
+# Digital Accessibility Resources
