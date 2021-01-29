@@ -20,7 +20,7 @@ List of Accessibility laws and policies is available via  [Web Accessibility Law
 *   [A Guide to Disability Rights Laws](https://www.ada.gov/cguide.htm)
 *   [IT Accessibility Laws and Policies](https://www.section508.gov/manage/laws-and-policies)
 
-## Accessibility check-lists and policies at-glance
+## Accessibility check-lists and policies (at-glance)
 
 If you don’t want to read through the official policies and laws. Consider to check out the accessibility checklist put together by WebAim, available via [WebAIM's WCAG 2 Checklist](https://webaim.org/standards/wcag/checklist), or the a11y Project’s checklist, available via [https://www.a11yproject.com/checklist/](https://www.a11yproject.com/checklist/).
 
