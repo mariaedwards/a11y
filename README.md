@@ -5,7 +5,8 @@
 Consider checking-in the official statistics for the US and the World on disability to understand the impact of population and importance of digital equity for all.
 
 *   [CDC Disability and Health Overview](https://www.cdc.gov/ncbddd/disabilityandhealth/disability.html)
-*   [WHO Disability Report](https://www.who.int/disabilities/world_report/2011/report/en/)
+*   [WHO Disability Report 2011](https://www.who.int/disabilities/world_report/2011/report/en/)
+*   [The World Bank Disability Inclusion Overview](https://www.worldbank.org/en/topic/disability)
 
 [The WebAIM Million - An annual accessibility analysis of the top 1,000,000 home pages](https://webaim.org/projects/million/) demonstrates that we are very far from having digital equity for all.
 
