@@ -109,7 +109,6 @@ Here is the curated  list of accessibility courses free and paid, provided by un
 
 ## Accessibility communities
 
-*   web-a11y.slack.com (email Devon Persing at [dep@dpersing.com](mailto:dep@dpersing.com) or message on [LinkedIn](https://www.linkedin.com/in/devonpersing/) or [Twitter](https://twitter.com/devonpersing/) to send you an invite!)
 *   [A11y Weekly](https://us11.campaign-archive.com/home/?u=884d5f16016183c67252bd18c&id=364cecaf87) newsletter
 
 
