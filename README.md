@@ -17,7 +17,7 @@ If you are interested in learning accessibility policies in-depth or inspired to
 
 List of Accessibility laws and policies is available via  [Web Accessibility Laws & Policies | Web Accessibility Initiative (WAI) | W3C](https://www.w3.org/WAI/policies/). Including the following:
 
-*   Official website for WCAG [Web Content Accessibility Guidelines (WCAG) Overview | Web Accessibility Initiative (WAI) | W3C](https://www.w3.org/WAI/standards-guidelines/wcag/) (note: WCAG 3.0 is coming, working draft is available via [W3C Accessibility Guidelines (WCAG) 3.0](https://www.w3.org/TR/2021/WD-wcag-3.0-20210121/) )
+*   Official website for WCAG [Web Content Accessibility Guidelines (WCAG) Overview | Web Accessibility Initiative (WAI) | W3C](https://www.w3.org/WAI/standards-guidelines/wcag/) (note: WCAG 3.0 is coming, working draft is available via [W3C Accessibility Guidelines (WCAG) 3.0](https://www.w3.org/TR/2021/WD-wcag-3.0-20210121/)
 *   [A Guide to Disability Rights Laws](https://www.ada.gov/cguide.htm)
 *   [IT Accessibility Laws and Policies](https://www.section508.gov/manage/laws-and-policies)
 
@@ -29,8 +29,11 @@ Or read through the at-glance versions for the accessibility official documents:
 
 *   [WCAG 2.1 at a Glance | Web Accessibility Initiative (WAI) | W3C](https://www.w3.org/WAI/standards-guidelines/wcag/glance/)
 *   [How to Meet WCAG (Quickref Reference)](https://www.w3.org/WAI/WCAG21/quickref/)
+*   [How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/?versions=2.1)
 
-If you are already familiar with WCAG 2.0 and not WCAG 2.1, consider reading [What's New in WCAG 2.1 | Web Accessibility Initiative (WAI) | W3C](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/)   
+If you are already familiar with WCAG 2.0 and not WCAG 2.1, consider reading [What's New in WCAG 2.1 | Web Accessibility Initiative (WAI) | W3C](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/).
+
+If you'd like to learn more about Web Content Accessibility consider reading [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/)
 
 
 ## Accessibility learning resources
@@ -49,9 +52,16 @@ Here is the curated  list of accessibility courses free and paid, provided by un
 
 ### Guides and Tutorials
 
+*   [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
+*   [teach access Tutorial](https://teachaccess.github.io/tutorial/)
+
+#### For content writers
+
+*   [Writing for Web Accessibility](https://www.w3.org/WAI/tips/writing/)
 
 #### For designers
 
+*   [Designing for Web Accessibility](https://www.w3.org/WAI/tips/designing/)
 *   [Microsoft Inclusive Design](https://www.microsoft.com/design/inclusive/) toolkit
 *   [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 *   [Material Design](https://material.io/)
@@ -59,6 +69,8 @@ Here is the curated  list of accessibility courses free and paid, provided by un
 
 #### For developers
 
+*   [Developing for Web Accessibility](https://www.w3.org/WAI/tips/developing/)
+*   [Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av/)
 *   [Keyboard accessibility](https://webaim.org/techniques/keyboard/)
 *   [Using VoiceOver to evaluate web accessibility](https://webaim.org/articles/voiceover/)
 *   [Using NVDA to evaluate web accessibility](https://webaim.org/articles/nvda/)
@@ -74,8 +86,13 @@ Here is the curated  list of accessibility courses free and paid, provided by un
 *   [“Capitol Crawl” – Americans with Disabilities Act of 1990](http://www.historybyzim.com/2013/09/capitol-crawl-americans-with-disabilities-act-of-1990/)
 *   [“This Is What Disabled Looks Like”: The Sometimes Hard-To-See Line Between Visible and Invisible Disabilities](https://medium.com/@coffeespoonie/the-sometimes-hard-to-see-line-between-visible-and-invisible-disabilities-this-is-what-disabled-eb6dec41bdf6)
 *   [A DIY Web Accessibility Blueprint – A List Apart](https://alistapart.com/article/diy-web-accessibility-blueprint/) 
-*   [Planning and Policies Overview | Web Accessibility Initiative (WAI) | W3C](https://www.w3.org/WAI/planning/) 
+*   [Planning and Policies Overview | Web Accessibility Initiative (WAI) | W3C](https://www.w3.org/WAI/planning/)
+*   [Essential Components of Web Accessibility](https://www.w3.org/WAI/fundamentals/components/)
 
+#### User Stories
+*   [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/)
+*   [Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users](https://www.w3.org/WAI/older-users/)
+*   [Web Accessibility Perspectives Videos: Explore the Impact and Benefits for Everyone](https://www.w3.org/WAI/perspective-videos/)
 
 #### Design and content writing
 
