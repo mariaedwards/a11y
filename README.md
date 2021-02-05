@@ -58,6 +58,7 @@ Here is the curated  list of accessibility courses free and paid, provided by un
 #### For content writers
 
 *   [Writing for Web Accessibility](https://www.w3.org/WAI/tips/writing/)
+*   [A Guide to Accessible Presentations](https://medium.com/@terekhina.maria/a-guide-to-accessible-presentations-f3db54616229)
 
 #### For designers
 
