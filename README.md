@@ -2,7 +2,7 @@
 
 ## Official statistics on disability and web accessibility
 
-Consider checking-in the official statistics for the US and the World on disability to understand the impact of population and importance of digital equity for all.
+Consider checking the official statistics for the US and the World on disability to understand the impacted population and importance of digital equity for all.
 
 *   [CDC Disability and Health Overview](https://www.cdc.gov/ncbddd/disabilityandhealth/disability.html)
 *   [WHO Disability Report 2011](https://www.who.int/disabilities/world_report/2011/report/en/)
@@ -11,21 +11,21 @@ Consider checking-in the official statistics for the US and the World on disabil
 [The WebAIM Million - An annual accessibility analysis of the top 1,000,000 home pages](https://webaim.org/projects/million/) demonstrates that we are very far from having digital equity for all.
 
 
-## Accessibility official policies (in-depth)
+## Official accessibility policies (in-depth)
 
-If you are interested in learning accessibility policies in-depth or inspired to eventually influence them, read through the following documents.  
+If you are interested in learning about accessibility policies in-depth or inspired to eventually influence them, read through the following documents.  
 
-List of Accessibility laws and policies is available via  [Web Accessibility Laws & Policies | Web Accessibility Initiative (WAI) | W3C](https://www.w3.org/WAI/policies/). Including the following:
+List of accessibility laws and policies is available via [Web Accessibility Laws & Policies | Web Accessibility Initiative (WAI) | W3C](https://www.w3.org/WAI/policies/), including the following:
 
 *   Official website for WCAG [Web Content Accessibility Guidelines (WCAG) Overview | Web Accessibility Initiative (WAI) | W3C](https://www.w3.org/WAI/standards-guidelines/wcag/) (note: WCAG 3.0 is coming, working draft is available via [W3C Accessibility Guidelines (WCAG) 3.0](https://www.w3.org/TR/2021/WD-wcag-3.0-20210121/)
 *   [A Guide to Disability Rights Laws](https://www.ada.gov/cguide.htm)
 *   [IT Accessibility Laws and Policies](https://www.section508.gov/manage/laws-and-policies)
 
-## Accessibility check-lists and policies (at-glance)
+## Accessibility check-lists and policies (at-a-glance)
 
-If you don’t want to read through the official policies and laws. Consider to check out the accessibility checklist put together by WebAim, available via [WebAIM's WCAG 2 Checklist](https://webaim.org/standards/wcag/checklist), or the a11y Project’s checklist, available via [https://www.a11yproject.com/checklist/](https://www.a11yproject.com/checklist/).
+If you don’t want to read through the official policies and laws, consider checking out the accessibility checklist put together by WebAim, available via [WebAIM's WCAG 2 Checklist](https://webaim.org/standards/wcag/checklist), or the a11y Project’s checklist, available via [https://www.a11yproject.com/checklist/](https://www.a11yproject.com/checklist/).
 
-Or read through the at-glance versions for the accessibility official documents:
+Or read through the at-a-glance versions of the official accessibility documents:
 
 *   [WCAG 2.1 at a Glance | Web Accessibility Initiative (WAI) | W3C](https://www.w3.org/WAI/standards-guidelines/wcag/glance/)
 *   [How to Meet WCAG (Quickref Reference)](https://www.w3.org/WAI/WCAG21/quickref/)
@@ -33,7 +33,7 @@ Or read through the at-glance versions for the accessibility official documents:
 
 If you are already familiar with WCAG 2.0 and not WCAG 2.1, consider reading [What's New in WCAG 2.1 | Web Accessibility Initiative (WAI) | W3C](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/).
 
-If you'd like to learn more about Web Content Accessibility consider reading [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/)
+If you'd like to learn more about Web Content Accessibility, consider reading [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/)
 
 
 ## Accessibility learning resources
@@ -41,7 +41,7 @@ If you'd like to learn more about Web Content Accessibility consider reading [We
 
 ### Courses
 
-Here is the curated  list of accessibility courses free and paid, provided by universities and online learning platforms such as edX, available via [Digital Accessibility Courses Roundup • Digital A11Y](https://www.digitala11y.com/digital-accessibility-courses-roundup/) 
+Here is a curated list of accessibility courses, free and paid, provided by universities and online learning platforms such as edX, available via [Digital Accessibility Courses Roundup • Digital A11Y](https://www.digitala11y.com/digital-accessibility-courses-roundup/) 
 
 
 ### YouTube Channels and Podcasts
@@ -120,7 +120,7 @@ Here is the curated  list of accessibility courses free and paid, provided by un
 
 *   [Accessibility for Everyone](https://abookapart.com/products/accessibility-for-everyone) by Laura Kalbag
 *   [Design for Real Life](https://abookapart.com/products/design-for-real-life) by Eric Meyer and Sara Wachter-Boettcher
-*   Opinionated list on best books for accessibility and user experience: [My favourite books on accessibility and related topics | by Sheri Byrne-Haber, CPACC | Design Warp](https://medium.com/design-warp/top-books-on-accessibility-and-related-topics-79f0b3e1e1f3) 
+*   Recommended list on best books for accessibility and user experience: [My favourite books on accessibility and related topics | by Sheri Byrne-Haber, CPACC | Design Warp](https://medium.com/design-warp/top-books-on-accessibility-and-related-topics-79f0b3e1e1f3) 
 *   Goodreads list [Accessibility Books](https://www.goodreads.com/shelf/show/accessibility)
 *   BookAuthority list [63 Best Accessibility Books of All Time - BookAuthority](https://bookauthority.org/books/best-accessibility-books)  
 
@@ -132,18 +132,18 @@ Here is the curated  list of accessibility courses free and paid, provided by un
 
 ## Accessibility certification programs
 
-Provided by International organization of accessibility professionals ([IAAP](https://www.accessibilityassociation.org/certification)):
+Provided by International Association of Accessibility Professionals ([IAAP](https://www.accessibilityassociation.org/certification)):
 
 *   [CPACC Certification](https://www.accessibilityassociation.org/cpacccertification)
 *   [WAS Certification](https://www.accessibilityassociation.org/wascertification)  
 *   [CPABE Certification](https://www.accessibilityassociation.org/cpabeoverview) 
 
-Read more on the accessibility training [Accessibility Training for Developers | Section508.gov](https://www.section508.gov/create/developer-training) 
+Read more on [Accessibility Training for Developers | Section508.gov](https://www.section508.gov/create/developer-training) 
 
 
 ## Accessibility conferences and events in 2021
 
-If you want to learn more about digital accessibility and stay up-to-date on the latest advancements, wins, guides etc, consider attending the following conferences and events [Accessibility Conferences and Events • Digital A11Y](https://www.digitala11y.com/accessibility-conferences-events/) 
+If you want to learn more about digital accessibility and stay up-to-date on the latest advancements, wins, guides, etc., consider attending the following conferences and events [Accessibility Conferences and Events • Digital A11Y](https://www.digitala11y.com/accessibility-conferences-events/) 
 
 
 ## Accessibility testing tools (for designers)
@@ -156,9 +156,9 @@ If you are a designer, it is important to check accessibility of your mocks befo
 
 ## Accessibility testing tools (for engineers and QA)
 
-There are a plethora of different accessibility tools that you can use to test your web site or application. Consider running automated tests using a few browser plugins and follow-up with at least one screen reader for each platform and a [keyboard-only navigation](https://webaim.org/techniques/keyboard/) through your main end user flows. 
+There are a plethora of different accessibility tools that you can use to test your web site or application. Consider running automated tests using a few browser plugins and follow-up with at least one screen reader for each platform and a [keyboard-only navigation](https://webaim.org/techniques/keyboard/) through your main end-user flows. 
 
-If you have more needs or a specific use case, check this curated list of [accessibility evaluation tools](https://www.w3.org/WAI/ER/tools/), provided by W3 that you can filter to find ones that match your particular needs. To determine what kind of tool you need and how they are able to assist you, see[ Selecting Web Accessibility Evaluation Tools](https://www.w3.org/WAI/test-evaluate/tools/selecting/).
+If you have more needs or a specific use case, check this curated list of [accessibility evaluation tools](https://www.w3.org/WAI/ER/tools/), provided by W3 that you can filter to find ones that match your particular needs. To determine what kind of tool you need and how they are able to assist you, see [Selecting Web Accessibility Evaluation Tools](https://www.w3.org/WAI/test-evaluate/tools/selecting/).
 
 
 ### Automated testing tools and plugins for Web (choose a couple)
@@ -201,9 +201,4 @@ If you have more needs or a specific use case, check this curated list of [acces
 *   For Apple devices follow [Accessibility Support - Official Apple Support](https://support.apple.com/accessibility) 
 
 
-## External accessibility audit
-
-If your web site or app is obligated to be WCAG A or AA compliant or perhaps your company values digital equity consider lobbying your leadership to administer accessibility audits by a third party on a frequent basis as well as provide accessibility training for all new employees in your Product organization.
-
-A good practice also involves including an [accessibility statement](https://www.w3.org/WAI/planning/statements/) on your website so if any user has trouble accessing your content or performing an action, they can easily contact customer or tech support and resolve their issue.
 
