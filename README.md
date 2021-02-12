@@ -143,7 +143,7 @@ Read more on [Accessibility Training for Developers | Section508.gov](https://ww
 
 ## Accessibility conferences and events in 2021
 
-If you want to learn more about digital accessibility and stay up-to-date on the latest advancements, wins, guides, etc., consider attending the [Accessibility Conferences and Events • Digital A11Y](https://www.digitala11y.com/accessibility-conferences-events/) 
+If you want to learn more about digital accessibility and stay up-to-date on the latest advancements, wins, guides, etc., consider attending [Accessibility Conferences and Events • Digital A11Y](https://www.digitala11y.com/accessibility-conferences-events/) 
 
 
 ## Accessibility testing tools (for designers)
